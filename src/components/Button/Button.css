@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+.button{
+    padding: 0.5rem 1rem;
+    border-radius: 0.4rem;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.primary__button{
+    background-color: #1C8CCF;
+}
+
+.success__button{
+    background-color: #198754;
+}
+
+.warning__button{
+    background-color: #F1BB16;
+}
+
+.danger__button{
+    background-color: #DC3545;
+}
+
+.dark__button{
+    background-color: #333333;
+}
+

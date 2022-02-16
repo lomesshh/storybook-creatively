@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.inputText {
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    border-bottom: 3px solid gray;
+    font-family: Roboto, 'Open Sans', sans-serif;
+}
+
+.inputText__small{
+    width: 30%;
+    font-size: 0.8rem;
+}
+
+.inputText__medium{
+    width: 50%;
+    font-size: 1rem;
+}
+
+.inputText__large{
+    width: 70%;
+    font-size: 1.2rem;
+}

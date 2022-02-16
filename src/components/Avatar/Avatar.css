@@ -1,0 +1,25 @@
+.avatar {
+    width: 5rem;
+    height: 5rem;
+}
+
+.avatar img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.avatar__large {
+    width: 8rem;
+    height: 8rem;
+}
+
+.avatar__medium {
+    width: 6rem;
+    height: 6rem;
+}
+
+.avatar__small {
+    width: 4rem;
+    height: 4rem;
+}
